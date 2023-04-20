@@ -1,1 +1,1 @@
-# Lab_4_SSE3401
+# Lab_4_SSE3401_DiceGame
